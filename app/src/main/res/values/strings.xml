@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejercicio12_modulo4_android</string>
+    <string name="app_welcome">Bienvenido!</string>
+    <string name="app_logo">Logo</string>
+    <string name="app_button">Enter</string>
+    <string name="app_plus">+</string>
+    <string name="app_minus">-</string>
+</resources>
